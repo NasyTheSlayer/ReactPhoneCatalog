@@ -1,6 +1,6 @@
 # React phone catalog
 
-- [DEMO LINK](https://nasytheslayer.github.io/Phone-catalog-react/)
+- [DEMO LINK](https://nasytheslayer.github.io/ReactPhoneCatalog/)
 
 - [Figma design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2)
 
@@ -24,12 +24,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/Phone-catalog-react.git
+$ git clone https://github.com/NasyTheSlayer/ReactPhoneCatalog.git
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code Phone-catalog-react
+$ code ReactPhoneCatalog
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
